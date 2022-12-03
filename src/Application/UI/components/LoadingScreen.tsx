@@ -169,12 +169,12 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             </div>
                         </div>
                         <div style={styles.headerInfo}>
-                            <p>Released: 01/13/2000</p>
-                            <p>YEAAST (C)2000 Youssef Ehab Inc.,</p>
+                            <p>Released: 17/01/2002</p>
+                            <p>YEAAST (C)2002 Youssef Ehab Inc.,</p>
                         </div>
                     </div>
                     <div style={styles.body} className="loading-screen-body">
-                        <p>HSP S13 2000-2022 Special UC131S</p>
+                        <p>HSP S13 2002-2022 Special UC131S</p>
                         <div style={styles.spacer} />
                         {showBiosInfo && (
                             <>
